@@ -1,3 +1,3 @@
-# Retail-Sales
-* This is a python tutorial I made 
-** This is me 
+# Retail-Sales 
+* **I will be using this data set to do an explorative data analysis in python** 
+
